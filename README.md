@@ -1,2 +1,2 @@
-# C-Calculator
-C# Simple Calculator
+# Calculator
+C# Simple Calculator using Windows Forms Application
